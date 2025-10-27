@@ -1,3 +1,3 @@
 # appdev
 My first repository
-## **'My favorite movies is lord of the ring'** *italicized text* 
+## **'*My favorite movies is lord of the ring* '** 
